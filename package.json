@@ -1,0 +1,24 @@
+{
+  "name": "playwright-lambda-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madhu1512/playwright-lambda-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madhu1512/playwright-lambda-demo/issues"
+  },
+  "homepage": "https://github.com/Madhu1512/playwright-lambda-demo#readme",
+  "dependencies": {
+    "aws-lambda-ric": "^1.0.0",
+    "playwright-core": "^1.8.0"
+  }
+}
